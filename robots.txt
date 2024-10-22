@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mityprit.github.io/mityprit.txt.gz
+Sitemap: https://mityprit.github.io/app/mityprit.txt.gz
+Sitemap: https://mityprit.github.io/assets/mityprit.txt.gz
+Sitemap: https://mityprit.github.io/css/mityprit.txt.gz
+Sitemap: https://mityprit.github.io/includes/mityprit.txt.gz
+Sitemap: https://mityprit.github.io/item/mityprit.txt.gz
+Sitemap: https://mityprit.github.io/src/mityprit.txt.gz
